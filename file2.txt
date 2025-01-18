@@ -3,6 +3,6 @@ It reflected the moonlight.
 Nearby, an owl hooted.
 <<<<<<< HEAD
 The forest seemed whimsical.
-=======
+The forest seemed whimsical and mystical.
 The forest seemed mystical.
 >>>>>>> main
