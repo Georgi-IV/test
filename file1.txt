@@ -1,4 +1,8 @@
 The castle was quiet at night.
 A lantern illuminated in the tower.
 A shadow moved behind the curtain.
+<<<<<<< HEAD
 Was someone watching me?
+=======
+Was someone watching you?
+>>>>>>> main
